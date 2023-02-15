@@ -7,6 +7,7 @@
 
 // TODO: Add another object inside that will follow the ball.
 // TODO: Add a function that will detect the collision between the ball and the object.
+// TODO: Reorganize the code so that it will be easier to read. (Maybe create a class for the ball and the object.)
 
 #include <GL/glut.h>
 #include <iostream>
